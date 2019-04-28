@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{C3DA89E1-70C6-7D6C-993E-C8F831D35880}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Cube.cs">
+    <Files>
+      <File FileName="Assets/Script/Sword.cs" Line="19" Column="44" />
+      <File FileName="Assets/Script/Player.cs" Line="46" Column="10" />
+      <File FileName="Assets/Script/Cube.cs" Line="18" Column="50" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
